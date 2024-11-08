@@ -1,3 +1,5 @@
+.datatable.aware = TRUE
+
 #' @export
 compute_hash <- function(data_df, vars_use) {
     base <- 1
